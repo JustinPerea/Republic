@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 480" font-family="ui-monospace, 'SF Mono', Menlo, monospace" preserveAspectRatio="xMidYMid meet">
+  <!-- ground -->
+  <rect width="1600" height="480" fill="#0A0A0A"/>
+
+  <!-- top status strip -->
+  <rect x="0" y="0" width="1600" height="28" fill="#111111"/>
+  <line x1="0" y1="28" x2="1600" y2="28" stroke="#E8E2D2" stroke-opacity="0.32" stroke-width="1"/>
+  <text x="24" y="19" fill="#ABA395" font-size="9" letter-spacing="3.2" font-weight="600">HERMES AGENT &#8226; STATUS&#183;OPERATIONAL &#8226; SECTOR&#183;OPS &#8226; REPUBLIC THEME &#8226; v1.0 MMXXVI &#8226; BUILT WITH PURPOSE &#8226; ENGINEERED TO ELEVATE</text>
+  <text x="1576" y="19" fill="#DCFF00" font-size="9" letter-spacing="3.2" font-weight="700" text-anchor="end">PG 01/01 &#8599;</text>
+
+  <!-- corner-bracket frame: yellow top + sides, magenta bottom -->
+  <!-- top bracket (yellow) -->
+  <path d="M 24 60 L 24 48 L 96 48" stroke="#DCFF00" stroke-width="2" fill="none"/>
+  <path d="M 1576 60 L 1576 48 L 1504 48" stroke="#DCFF00" stroke-width="2" fill="none"/>
+  <!-- bottom bracket (magenta) -->
+  <path d="M 24 432 L 24 444 L 96 444" stroke="#F84A8C" stroke-width="2" fill="none"/>
+  <path d="M 1576 432 L 1576 444 L 1504 444" stroke="#F84A8C" stroke-width="2" fill="none"/>
+
+  <!-- left margin column: sector code + page indicator (cyan) -->
+  <text x="48" y="92" fill="#F84A8C" font-size="11" letter-spacing="3.5" font-weight="700">/// SEC.01</text>
+  <text x="48" y="112" fill="#ABA395" font-size="11" letter-spacing="3.5" font-weight="500">// REPUBLIC</text>
+
+  <!-- registration marks (instrument micro-marks) -->
+  <g stroke="#4AC4F8" stroke-width="1" fill="none">
+    <path d="M 1500 92 L 1512 92 M 1506 86 L 1506 98"/>
+  </g>
+  <g stroke="#F84A8C" stroke-width="1" fill="none" opacity="0.9">
+    <path d="M 1530 92 L 1542 92 M 1536 86 L 1536 98"/>
+  </g>
+
+  <!-- HERO HEADLINE: REPUBLIC -->
+  <text x="48" y="252" fill="#E8E2D2" font-size="156" letter-spacing="-4" font-weight="900" font-family="'Geist Mono', ui-monospace, Menlo, monospace">REPUBLIC</text>
+
+  <!-- yellow badge: theme count -->
+  <rect x="868" y="172" width="86" height="32" fill="#DCFF00"/>
+  <text x="911" y="194" fill="#0A0A0A" font-size="13" letter-spacing="2.5" font-weight="700" text-anchor="middle">THEMES 01</text>
+
+  <!-- katakana sub-line (Sekiguchi homage, aesthetic) -->
+  <text x="50" y="278" fill="#ABA395" font-size="10" letter-spacing="2" font-family="'Noto Sans JP', sans-serif">レパブリック &#183; HERMES AGENT THEMES</text>
+
+  <!-- tagline with bracketed plate -->
+  <text x="48" y="316" fill="#E8E2D2" font-size="14" letter-spacing="3.2" font-weight="500">A HERMES AGENT DASHBOARD RESKIN IN THE LANGUAGE OF</text>
+  <text x="48" y="338" fill="#DCFF00" font-size="14" letter-spacing="3.2" font-weight="700">THE DESIGNERS REPUBLIC &#215; MARATHON.</text>
+
+  <!-- yellow rule + hash divider -->
+  <line x1="48" y1="362" x2="1552" y2="362" stroke="#E8E2D2" stroke-opacity="0.32" stroke-width="1"/>
+  <g fill="#DCFF00">
+    <rect x="48"  y="358" width="60" height="8"/>
+  </g>
+  <g fill="#F84A8C" opacity="0.85">
+    <rect x="116" y="358" width="8" height="8"/>
+    <rect x="128" y="358" width="8" height="8"/>
+    <rect x="140" y="358" width="8" height="8"/>
+  </g>
+
+  <!-- footer ticker stamp -->
+  <text x="48" y="402" fill="#6B6558" font-size="9" letter-spacing="2.8" font-weight="500">DAEDALUS &#8226; v1.0 MMXXVI</text>
+  <text x="800" y="402" fill="#6B6558" font-size="9" letter-spacing="2.8" font-weight="500" text-anchor="middle">// BUILT FOR THE NOUS RESEARCH HERMES AGENT THEME HACKATHON</text>
+  <text x="1552" y="402" fill="#6B6558" font-size="9" letter-spacing="2.8" font-weight="500" text-anchor="end">MIT LICENSE &#8599;</text>
+
+  <!-- bottom status bar -->
+  <line x1="0" y1="452" x2="1600" y2="452" stroke="#E8E2D2" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="24" y="471" fill="#6B6558" font-size="9" letter-spacing="3.2" font-weight="500">DAEDALUS // ATELIER &#8226; BUILT WITH PURPOSE &#8226; ENGINEERED TO ELEVATE &#8226; v1.0 MMXXVI</text>
+
+  <!-- right side filament bars (status indicators) -->
+  <g>
+    <rect x="1480" y="172" width="4" height="48" fill="#DCFF00"/>
+    <rect x="1492" y="172" width="4" height="48" fill="#4AC4F8"/>
+    <rect x="1504" y="172" width="4" height="48" fill="#F84A8C"/>
+    <rect x="1516" y="172" width="4" height="48" fill="#7FFF7F"/>
+  </g>
+  <text x="1552" y="240" fill="#ABA395" font-size="9" letter-spacing="2.8" font-weight="600" text-anchor="end">FIL.04 // ALL CHANNELS LIVE</text>
+</svg>
