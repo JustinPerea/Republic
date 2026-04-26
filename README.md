@@ -1,23 +1,26 @@
-# DAEDALUS
+# REPUBLIC
 
-> A **Hermes Agent** dashboard theme in the visual language of **The Designers Republic** and **Marathon** (Kurppa Hosk × Bungie 2026).
+> Themes for **Hermes Agent** in the visual language of **The Designers Republic** and **Marathon** (Kurppa Hosk × Bungie 2026).
 
-Near-black ground. Bone parchment text. Radioactive yellow as structural material — not accent. Magenta and cyan as instrument micro-marks. Geist Mono Bold + IBM Plex. Square corners, hairline rules, mono-caps everywhere. The agent stops being a friendly chat companion and becomes a **system console**.
+This repo is a small atelier of dashboard themes that turn the Hermes Agent web UI into a system console — bone parchment over near-black, radioactive yellow as structural material, mono-caps everywhere.
 
-Built for the Hermes Agent Theme Hackathon (Nous Research, April 2026).
+**v1.0 — `Daedalus`** is the first theme.
 
 ---
 
-## SCREENSHOTS
+## DAEDALUS
 
-> _Add screenshots in `screenshots/`. Suggested set: `01-sessions.png`, `02-analytics.png`, `03-config.png`._
+Near-black ground. Bone parchment text. Radioactive yellow as structural material — not accent. Magenta and cyan as instrument micro-marks. Geist Mono Bold + IBM Plex. Square corners, hairline rules. The agent stops being a friendly chat companion and becomes a **system console**.
 
-```
-screenshots/
-├── 01-sessions.png    — sessions list, nav numbering, page header
-├── 02-analytics.png   — metric cards, daily token chart (bone + magenta)
-└── 03-config.png      — config panel on a content-heavy page
-```
+Built for the Hermes Agent Theme Hackathon (Nous Research, April 2026).
+
+### Screenshots
+
+| Sessions | Analytics | Skills |
+|---|---|---|
+| ![Sessions](screenshots/01-sessions.png) | ![Analytics](screenshots/02-analytics.png) | ![Skills](screenshots/03-skills.png) |
+
+[**Watch the demo →**](screenshots/demo.mp4)
 
 ---
 
