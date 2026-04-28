@@ -4,10 +4,10 @@
 
 <br>
 
+[![Winner](https://img.shields.io/badge/%E2%97%86_WINNER-NOUS_HERMES_THEME_HACKATHON_2026-DCFF00?style=flat-square&labelColor=0A0A0A)](https://nousresearch.com/)
 [![License: MIT](https://img.shields.io/badge/LICENSE-MIT-DCFF00?style=flat-square&labelColor=0A0A0A)](LICENSE)
 [![Hermes Agent](https://img.shields.io/badge/HERMES_AGENT-v0.11.0%2B-E8E2D2?style=flat-square&labelColor=0A0A0A)](https://github.com/NousResearch/hermes-agent)
 [![Theme](https://img.shields.io/badge/THEME-DAEDALUS_v1.0-DCFF00?style=flat-square&labelColor=0A0A0A)](DESIGN.md)
-[![Hackathon](https://img.shields.io/badge/NOUS_HERMES_HACKATHON-2026-F84A8C?style=flat-square&labelColor=0A0A0A)](https://nousresearch.com/)
 [![Built With Purpose](https://img.shields.io/badge/BUILT_WITH_PURPOSE-%E2%97%86-4AC4F8?style=flat-square&labelColor=0A0A0A)](DESIGN.md)
 
 **`/// SEC.01`** &nbsp;&nbsp;**Themes for [Hermes Agent](https://github.com/NousResearch/hermes-agent)** in the visual language of **The Designers Republic** and **Marathon** *(Kurppa Hosk × Bungie, 2026)*. &nbsp;&nbsp;**`PG 01/01 ↗`**
@@ -25,7 +25,7 @@ The default Hermes Teal theme is a soft cream on dark teal — polished, warm, e
 The agent stops being a friendly chat companion and becomes a **system console** — a Sector-01 readout with a sigil, a faction tag, and a launch latch. That contrast against the soft Hermes Teal default is the point.
 
 > [!NOTE]
-> **`v1.0 — DAEDALUS`** is the first theme in the Republic atelier. Built for the **Nous Research Hermes Agent Theme Hackathon** (April 2026, $350 theme track).
+> **`◆ WINNER — Nous Research Hermes Agent Theme Hackathon`** ($350 theme track, April 2026). `v1.0 — DAEDALUS` is the first theme in the Republic atelier.
 
 ---
 
